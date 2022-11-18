@@ -1,2 +1,2 @@
-# AluraPlay
- Projeto Alura Play, desenvolvido no curso  CSS: Flexbox e layouts responsivos
+#AluraPlay
+ Projeto Alura Play, desenvolvido no curso de CSS: Flexbox e layouts responsivos
